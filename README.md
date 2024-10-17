@@ -8,10 +8,10 @@ QUẢN LÝ VÀ BÁN VÉ MÁY BAY
 
 - ## Giới Thiệu
 - Nhóm 4 chủ đề "xây dựng website quản lý và bán vé máy bay": bao gồm các thành viên:
-  NGUYỄN PHI NHÂN: Trưởng nhóm
-  NGUYỄN THANH ĐA: Thành viên
-  LÊ HOÀNG GIA KHÁNH: Thành viên
-  MAI VĂN KHÁNH: Thành viên
+NGUYỄN PHI NHÂN - Trưởng nhóm.
+NGUYỄN THANH ĐA - Thành viên.
+LÊ HOÀNG GIA KHÁNH - Thành viên.
+MAI VĂN KHÁNH - thành viên.
   
   ## Cài Đặt
 Để cài đặt dự án, bạn cần thực hiện các bước sau:
